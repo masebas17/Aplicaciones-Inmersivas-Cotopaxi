@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/S_Old_Wood_Boards_ricaS_high_Var4.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/S_Old_Wood_Boards_ricaS_high_Var5.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/T_Old_Wood_Boards_ricaS_8K_D.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/T_Old_Wood_Boards_ricaS_8K_N.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/T_OldWoodBoards_ricaS_8K_DpR.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/MI_Old_Wood_Boards_ricaS_8K.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/S_Old_Wood_Boards_ricaS_high_Var1.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/S_Old_Wood_Boards_ricaS_high_Var2.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Megascans/3D_Assets/Old_Wood_Boards_ricaS/S_Old_Wood_Boards_ricaS_high_Var3.uasset",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Content/Mallas/laguna.uasset"
+			]
+		}
+	]
+}

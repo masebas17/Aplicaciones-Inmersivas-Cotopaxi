@@ -1,0 +1,7 @@
+2023/06/28-11:39:25.632 4d2c Reusing MANIFEST C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/28-11:39:25.633 4d2c Recovering log #3
+2023/06/28-11:39:25.634 4d2c Reusing old log C:/Users/ESPE/Documents/Unreal Projects/VRLaguna/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2023/06/28-11:44:57.499 5d4c Level-0 table #5: started
+2023/06/28-11:44:57.501 5d4c Level-0 table #5: 1167 bytes OK
+2023/06/28-11:44:57.503 5d4c Delete type=0 #3
+2023/06/28-11:44:57.503 5d4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
